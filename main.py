@@ -1,0 +1,2 @@
+print("Welcome to BetterBanking\nA bank that gives back.")
+input("What would you like to do with us today?\n1. Check Your Balance\n2. Withdraw money\n3. Deposit Money\n4. Transfer Money\n5. Edit Account\n6. Exit and Log Out")
