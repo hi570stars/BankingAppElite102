@@ -77,3 +77,4 @@ def exit_log_out():
     yes_no = input("Log out? ")
     if yes_no == "yes":
         #go back to database?
+
